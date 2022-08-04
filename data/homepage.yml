@@ -1,0 +1,71 @@
+banner:
+  title: "Hi! I’m Enes"
+
+social:
+  twitter: ""
+  linkedin: mehmet-enes-onuş-1773b3211/
+  bitbucket: ""
+  github: enes-mehmet
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: menes.onus
+  hotmail: ""
+  telegram: ""
+  whatsapp: ""
+
+about:
+  enable: true
+  content: 3rd Year Sabanci University Computer Science and Engineering Student
+  button:
+    btnText: Find out more
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: Will add automed experience here
+    - title: CSS
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png
+      description: Will add automed experience here
+    - title: HTML
+      logo: https://icon-library.com/images/html-5-icon/html-5-icon-6.jpg
+      description: Will add automed experience here
+    - title: MySQL
+      logo: https://logo-download.com/wp-content/data/images/png/MySQL-logo.png
+      description: Will add school experience here
+    - title: PHP
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png
+      description: Will add school experience here
+    - title: Python
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png
+      description: Will add school experience here
+
+portfolio:
+  enable: true
+  item:
+    - title: PolyPharm
+      image: https://i.ibb.co/QfcwXqK/Whats-App-Image-2022-08-04-at-1-00-37-AM.jpg
+      description: A Medicine tracking IoT device with remote control and a mobile app
+      link: "/portfolio/polypharm"
+      tools:
+        - node-dot-js
+        - electron
+
+experience:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+      
+education:
+  enable: true
+  item:
+    - title: BSc Computer Science and Engineering
+      year: 2020 - Present
+      academy: Sabanci University
+      image: https://www.sabanciuniv.edu/sites/default/files/logo_sabancirgb.png
