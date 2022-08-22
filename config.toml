@@ -1,16 +1,16 @@
 # Base information
-baseURL = "http://eonus.dev"
-languageCode = "en-gb"
+baseURL = "https://enesonus.com"
+languageCode = "en-tr"
 title = "Mehmet Enes Onuş"
-# theme = "hugo-developer-portfolio"
+theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 
 # Remove this when using normally
-# themesDir = "../../" 
+themesDir = "/home/enes/Desktop/myWebsite/themes" 
 # `
-[module]
-  [[module.imports]]
-    path = "github.com/samrobbins85/hugo-developer-portfolio"
+#[module]
+#  [[module.imports]]
+#    path = "github.com/samrobbins85/hugo-developer-portfolio"
 
 # Plugins
 [params.plugins]
@@ -62,7 +62,7 @@ author = "Mehmet Enes Onuş"
   formAction = "https://formspree.io/f/xwkzerde" #contact form works with formspree.io
 
   [params.footer]
-  email = "menes.onus@gmail.com"
+  email = "me@enesonus.com"
   address = "Istanbul, Turkey"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 

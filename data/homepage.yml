@@ -25,34 +25,38 @@ skill:
   enable: true
   item:
     - title: JavaScript
-      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
-      description: Will add automed experience here
+      logo: /images/mainpage/js.png
+      description: Used JavaScript to add robotics background to a desktop application made with Elelctron using NodeJS and Johnny-Five framework.
     - title: CSS
-      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png
-      description: Will add automed experience here
+      logo: /images/mainpage/css.png
+      description: Used CSS to customize GUI that was created with the help of Electron.
     - title: HTML
-      logo: https://icon-library.com/images/html-5-icon/html-5-icon-6.jpg
-      description: Will add automed experience here
+      logo: /images/mainpage/html.png
+      description: Used HTML to create pages of GUI that was created with the help of Electron.
     - title: MySQL
-      logo: https://logo-download.com/wp-content/data/images/png/MySQL-logo.png
-      description: Will add school experience here
+      logo: /images/mainpage/mysql.png
+      description: Used MySQL to create a working database management system which stores data of a bike sharing company that has 4 different types of users with different dependencies.
     - title: PHP
-      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png
-      description: Will add school experience here
+      logo: /images/mainpage/php.png
+      description: Used PHP to create working webpages to show relevant data from MySQL database.
     - title: Python
-      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png
-      description: Will add school experience here
+      logo: /images/mainpage/py.png
+      description: Used Python to develop a robotics projects such as simple biological 3D printer project.
+    - title: C++
+      logo: /images/mainpage/cpp.png
+      description: Learned C++ as main coding language at University. Can code Data Structures such as Hash Maps, Binary Trees, AVL trees and sorting algorithms such as Heap Sort, Quick Sort and Merge Sort.
 
 portfolio:
   enable: true
   item:
     - title: PolyPharm
-      image: https://i.ibb.co/QfcwXqK/Whats-App-Image-2022-08-04-at-1-00-37-AM.jpg
+      image: /images/mainpage/polypharm.jpg
       description: A Medicine tracking IoT device with remote control and a mobile app
-      link: "/portfolio/polypharm"
+      link: "#"
       tools:
         - node-dot-js
         - electron
+        - raspberrypi
 
 experience:
   enable: false
