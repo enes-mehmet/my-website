@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<style>
+    html {
+        height: 100vh;
+    }
+    body {
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr auto;
+    }
+    .footer {
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+</style>
+<html lang="en-tr"><head>
+  <meta charset="utf-8">
+  <title>Mehmet Enes Onuş</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" property="og:description" content="How, why and what did I do at this project">
+  <meta name="image" property="og:image" content="/">
+  <meta name="author" content="Mehmet Enes Onuş">
+  <meta name="generator" content="Hugo 0.105.0">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="/css/style.min.css" integrity="" media="screen">
+  
+  <link rel="stylesheet" href="/css/syntax.min.css" integrity="" media="screen">
+
+  <script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.14/dist/mailgo.min.js" defer></script>
+
+  <!--Favicon-->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+</head>
+<body class="blog">
+    <div class="wrapper"><div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
+    <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@s">
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/"> Home
+                        </a></li>
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/about">About</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
+                        href="/blog">Blog</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/contact">Contact</a></li>
+                
+                
+            </ul>
+
+            <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
+
+        </div>
+    </nav>
+</div>
+
+<div id="sidenav" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+            
+            <li><a style="font-size: 18px" href="https://enesonus.com"> Home </a></li>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="/about">About</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="uk-active"><a style="font-size: 18px" href="/blog">Blog</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="/contact">Contact</a></li>
+            
+            
+        </ul>
+
+    </div>
+</div>
+
+
+
+
+<style>
+  p {
+    margin: 0
+  }
+
+  .people-wrap {
+    display: inline-flex;
+    margin-top: 10px;
+  }
+
+  .people-image {
+    display: block;
+    border-radius: 50%;
+     
+  }
+
+  .people {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .name {
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+  }
+
+  p { margin-bottom: 1em; }
+
+  body p:last-child { margin-bottom: 0em; }
+
+  img.skills{
+    height: 80px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .content img{max-width:60vw; max-height:60vh}
+
+  .content img{
+      max-width:60vw;
+      max-height:60vh
+  }
+  }
+  .content{
+      width: 90vw;
+      max-width: 1200px
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+</style>
+
+
+<section>
+  <div class="uk-container uk-margin-large-bottom uk-margin-medium-top">
+    <h1 class="uk-text-center uk-heading-medium">My first big project PolyPharm</h1>
+    <p class="uk-text-center uk-text-lead">How, why and what did I do at this project</p>
+    <p class="uk-text-center">Published on Jul 30, 2022</p>
+    <p class="uk-text-center">Reading time: 4 minutes.</p>
+    
+
+    <hr class="full-width">
+    
+
+    <div class="content">
+      <h3 id="how-did-we-decide-to-start-this-project">How did we decide to start this project</h3>
+<p>Before moving on to how I did this project, what technologies I used, etc., I would like to explain the thinking behind this project and how we got to this point in this project. Almost all of us have a relative in our family who uses some type of medicine. Older people, in particular, take more pills than prescribed, take pills more often, and most likely sometimes forget to take their medication, due to different prescriptions. All these possibilities lead to serious medical problems for people all over the world. According to <a href="https://www.who.int/news/item/29-03-2017-who-launches-global-effort-to-halve-medication-related-errors-in-5-years">WHO</a>, Medication errors cause 1 death per day and 1.3 million injuries per year in the United States alone. Especially developed countries suffer from medication errors due to the fact that developed countries have a much higher elderly population than other countries. According to <a href="https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20210316-1">EuroStat</a>, 20.6% of Europeans are over the age of 65 in 2020. This number was approximately %17 one decade ago. This high rate leads to many elderly people who live alone and have no one to follow their medication, and they often harm themselves by making medication errors. My medical student friend Furkan and I saw this growing problem and thought of a medicine tracking system that would suitably overcome these problems and started our PolyPharm project.</p>
+<h3 id="what-exactly-is-our-project">What exactly is our project?</h3>
+<p>PolyPharm project is basically a smart medicine vending machine that communicates with a database and a mobile application. Vending machine is the core part of our system and it is based on a Raspberry Pi Zero 2 SBC(Single Board Computer) and an Arduino UNO microcontroller board. I selected 2 different boards since Raspberry Pi is much more convenient for IoT work and project can be much more scalable with a mini computer while Arduino is the best fit for controlling electronical parts such as motors. There are 3 types of users: Patients, people responsible for patients and doctor. Device has 9 different containers that has minimum capacity of 150 pills each so it can take at least 1350 pills* meaning device can be used approximately 3 months without loading any medicine to it. As the pill sizes are variable, the amount of pills that can be loaded may vary.</p>
+<p>*Pills are 12mm long 4mm thick cylinders</p>
+<h3 id="how-does-this-system-work">How does this system work?</h3>
+<p>Suppose that there is a user using our system. When the time for taking pills comes machine will sound an alarm for user to take his/her medicine. After that alarm machine’s NFC reader will be open for reading. If patient puts the special medicine taking unit which has the proper NFC tag to the exit of the device, device will read the NFC and start to give medicines that patient needs and create a record that indicates medicines are taken by patient and send this record to database. If patient does not take the medicine, device will send a notification to person/people responsible for that patient that he/she did not take the medicines at first alarm. After some time of not taking medicines device will not give medicines to patient in order to prevent overdose and create a record about that and send it to databases. That data can be seen by both doctor of that patient and people responsible for him/her. Thanks to this system, treatment follow-up will be provided very easily and safely, and the burden of medicine tracking will be reduced.</p>
+<h3 id="which-technologies-are-used-at-this-project">Which technologies are used at this project?</h3>
+<p>First of all I would like to explain why did I select a Pi and an Arduino for our project and not only one of them. Pi is very convenient for things like sending data to database, controlling touchscreen and have an OS on it that can be used much easier than an Arduino. Arduino on the other side is much more convenient for controlling electronical parts such as motors than Pi since constantly sending signals from Pi’s multiple GPIO pins would cause problems at Pi so with the help of <a href="https://www.electronjs.org/">Electron</a> and <a href="http://johnny-five.io/,">Johnny-Five</a> I got them to join forces. I used electron to create machine’s user interface since my web development skills are much better than my GUI skills. Johnny-Five is a Firmata based JavaScript framework for controlling electronical parts via an Arduino UNO.</p>
+<p>While developing our system, I realized that we need 2 types of databases, one of which is the local database stored in the local storage of the medicine vending machine. This local database ensures that the right medication is given to the patient at the right time and amount in case of internet connection problems. Other database is a Firebase realtime database that is being used by our medicine vending machine and mobile application. Firebase database stores users’ data and patients’ medicine records. Firebase database is used to distribute relevant patient data to doctors and people responsible from patients.</p>
+<p>Mechanical parts of this system is also 3D Designed by me and electronical system design was also made by me. If I talk about those parts this blog will be too much to read so let me know if you want further information about them via contact page of my website :) You can find photos and videos of project below.</p>
+<h3 id="video">Video</h3>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/wPaRQQW4An4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="photos">Photos</h3>
+<ul>
+<li>
+<h4 id="device">Device</h4>
+</li>
+</ul>
+<p><figure><img src="/images/blog/PolyPharm/renderAll.png"/>
+</figure>
+
+<figure><img src="/images/blog/PolyPharm/renderCup.jpg"/>
+</figure>
+
+<figure><img src="/images/blog/PolyPharm/ss.png"/>
+</figure>
+</p>
+<ul>
+<li>
+<h4 id="ui">UI</h4>
+</li>
+</ul>
+<p><figure><img src="/images/blog/PolyPharm/ui1.jpeg"/>
+</figure>
+
+<figure><img src="/images/blog/PolyPharm/ui2.jpeg"/>
+</figure>
+
+<figure><img src="/images/blog/PolyPharm/ui3.jpeg"/>
+</figure>
+
+<figure><img src="/images/blog/PolyPharm/ui4.jpeg"/>
+</figure>
+
+<figure><img src="/images/blog/PolyPharm/ui5.jpeg"/>
+</figure>
+</p>
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+    </div>
+<footer class="footer">
+  <div class="uk-container">
+
+
+    <div class="uk-grid-small uk-child-width-1-4@m uk-text-center uk-flex-center uk-margin-medium-bottom" uk-grid>
+      <div class="uk-margin-small-bottom">
+        <h5 class="uk-margin-small-bottom">Email</h5>
+        <a href="mailto:me@enesonus.com">me@enesonus.com</a>
+
+      </div>
+      <div>
+        <h5 class="uk-margin-small-bottom">Address</h5>
+                  <div uk-lightbox>
+                    <a href="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&amp;key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U" data-caption="Istanbul, Turkey"
+                      data-type="iframe">Istanbul, Turkey</a>
+      </div>
+      </div>
+
+    </div>
+
+
+
+
+
+  <div class="footer-copyright uk-text-center" style="padding-bottom: 1rem">
+    <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1.2em;
+  width: 1.2em;" alt="Creative Commons">
+    <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1.2em;
+  width: 1.2em;" alt="CC-BY">
+    2020
+    Mehmet Enes Onuş
+
+
+  </div>
+</footer>
+
+
+<!-- JS Plugins -->
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+
+</body>
+</html>

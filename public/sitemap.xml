@@ -2,33 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://eonus.dev/categories/</loc>
+    <loc>https://enesonus.com/</loc>
+    <lastmod>2022-10-26T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://enesonus.com/about/</loc>
+    <lastmod>2022-08-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://enesonus.com/blog/first-blog/</loc>
+    <lastmod>2022-07-30T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://enesonus.com/blog/polypharm/</loc>
+    <lastmod>2022-07-30T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://enesonus.com/categories/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://eonus.dev/portfolio/hugo-portfolio-website/</loc>
+    <loc>https://enesonus.com/portfolio/hugo-portfolio-website/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://eonus.dev/categories/web-dev/</loc>
+    <loc>https://enesonus.com/categories/web-dev/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://eonus.dev/blog/first-blog/</loc>
-    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://eonus.dev/about/</loc>
+    <loc>https://enesonus.com/blog/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://eonus.dev/blog/</loc>
+    <loc>https://enesonus.com/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://eonus.dev/contact/</loc>
+    <loc>https://enesonus.com/portfolio/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://eonus.dev/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>http://eonus.dev/</loc>
-    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>http://eonus.dev/tags/</loc>
+    <loc>https://enesonus.com/tags/</loc>
   </url>
 </urlset>
