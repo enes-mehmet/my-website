@@ -26,25 +26,25 @@ skill:
   item:
     - title: JavaScript
       logo: /images/mainpage/js.png
-      description: Used JavaScript to add robotics background to a desktop application made with Elelctron using NodeJS and Johnny-Five framework.
+      description: I used JavaScript to add robotics background to a desktop application made with Elelctron using NodeJS and Johnny-Five framework.
     - title: Flutter
       logo: /images/mainpage/flutter.png
-      description: Used JavaScript to add robotics background to a desktop application made with Elelctron using NodeJS and Johnny-Five framework.
+      description: I used Flutter to create a cross-platform (iOS and Android) application that sends and retrieves data from server, has secure user login authentication, sends requests to an IoT device. Application takes user specific data from a database, process them and prompt to user and send user provided data to server to be used by IoT machine if needed. 
     - title: CSS
       logo: /images/mainpage/css.png
-      description: Used CSS to customize GUI that was created with the help of Electron.
+      description: I used CSS to customize GUI that was created with the help of Electron.
     - title: HTML
       logo: /images/mainpage/html.png
-      description: Used HTML to create pages of GUI that was created with the help of Electron.
+      description: I used HTML to create pages of GUI that was created with the help of Electron.
     - title: MySQL
       logo: /images/mainpage/mysql.png
-      description: Used MySQL to create a working database management system which stores data of a bike sharing company that has 4 different types of users with different dependencies.
+      description: I used MySQL to create a working database management system which stores data of a bike sharing company that has 4 different types of users with different dependencies.
     - title: PHP
       logo: /images/mainpage/php.png
-      description: Used PHP to create working webpages to show relevant data from MySQL database.
+      description: I used PHP to create working webpages to show relevant data from MySQL database.
     - title: Python
       logo: /images/mainpage/py.png
-      description: Used Python to develop a robotics projects such as simple biological 3D printer project.
+      description: I used Python to develop a robotics projects such as simple biological 3D printer project.
     - title: C++
       logo: /images/mainpage/cpp.png
       description: Learned C++ as main coding language at University. Can code Data Structures such as Hash Maps, Binary Trees, AVL trees and sorting algorithms such as Heap Sort, Quick Sort and Merge Sort.
