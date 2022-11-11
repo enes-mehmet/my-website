@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mehmet Enes Onuş</title>
-    <link>http://eonus.dev/categories/</link>
+    <link>https://enesonus.com/categories/</link>
     <description>Recent content in Categories on Mehmet Enes Onuş</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="http://eonus.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-tr</language>
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://enesonus.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>web-dev</title>
-      <link>http://eonus.dev/categories/web-dev/</link>
+      <link>https://enesonus.com/categories/web-dev/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>http://eonus.dev/categories/web-dev/</guid>
+      <guid>https://enesonus.com/categories/web-dev/</guid>
       <description></description>
     </item>
     

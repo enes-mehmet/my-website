@@ -6,7 +6,7 @@ theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 
 # Remove this when using normally
-themesDir = "/home/enes/Desktop/myWebsite/themes" 
+themesDir = "themes" 
 # `
 #[module]
 #  [[module.imports]]

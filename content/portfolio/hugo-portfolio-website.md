@@ -164,8 +164,8 @@ This contains the other configuration information
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
-description = "The website of Sam Robbins, 2nd Year Computer Science Student at Durham University"
-author = "Sam Robbins"
+description = "The website of Mehmet Enes Onus, 3rd Year Computer Science Student at Sabanci Universty"
+author = "Mehmet Enes Onus"
 
 
   [params.contact]

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Mehmet Enes Onuş</title>
-    <link>http://eonus.dev/about/</link>
+    <link>https://enesonus.com/about/</link>
     <description>Recent content in About on Mehmet Enes Onuş</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://eonus.dev/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-tr</language>
+    <lastBuildDate>Fri, 12 Aug 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://enesonus.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

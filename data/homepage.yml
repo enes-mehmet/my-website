@@ -3,9 +3,9 @@ banner:
 
 social:
   twitter: ""
-  linkedin: mehmet-enes-onuş-1773b3211/
+  linkedin: enesonus/
   bitbucket: ""
-  github: enes-mehmet
+  github: enesonus
   gitlab: ""
   facebook: ""
   instagram: ""
@@ -26,6 +26,9 @@ skill:
   item:
     - title: JavaScript
       logo: /images/mainpage/js.png
+      description: Used JavaScript to add robotics background to a desktop application made with Elelctron using NodeJS and Johnny-Five framework.
+    - title: Flutter
+      logo: /images/mainpage/flutter.png
       description: Used JavaScript to add robotics background to a desktop application made with Elelctron using NodeJS and Johnny-Five framework.
     - title: CSS
       logo: /images/mainpage/css.png
@@ -52,7 +55,7 @@ portfolio:
     - title: PolyPharm
       image: /images/mainpage/polypharm.jpg
       description: A Medicine tracking IoT device with remote control and a mobile app
-      link: "#"
+      link: "blog/polypharm"
       tools:
         - node-dot-js
         - electron
@@ -71,5 +74,10 @@ education:
   item:
     - title: BSc Computer Science and Engineering
       year: 2020 - Present
+      academy: Sabanci University
+      image: https://www.sabanciuniv.edu/sites/default/files/logo_sabancirgb.png
+      item:
+    - title: Minor in Business Analytics
+      year: 2022 - Present
       academy: Sabanci University
       image: https://www.sabanciuniv.edu/sites/default/files/logo_sabancirgb.png
