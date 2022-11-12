@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://enesonus.com/about/</loc>
-    <lastmod>2022-08-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://enesonus.com/</loc>
+    <lastmod>2022-10-26T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://enesonus.com/about/</loc>
     <lastmod>2022-08-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://enesonus.com/blog/first-blog/</loc>
