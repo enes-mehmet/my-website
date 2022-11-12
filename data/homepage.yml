@@ -47,7 +47,7 @@ skill:
       description: I used Python to develop a robotics projects such as simple biological 3D printer project.
     - title: C++
       logo: /images/mainpage/cpp.png
-      description: Learned C++ as main coding language at University. Can code Data Structures such as Hash Maps, Binary Trees, AVL trees and sorting algorithms such as Heap Sort, Quick Sort and Merge Sort.
+      description: Learned C++ as main coding language at University. Can code Data Structures such as Hash Maps, Binary Trees, AVL trees and sorting algorithms such as Heap Sort, Quick Sort and Merge Sort. I can also easily analyze time comlexity of algorithms and kinda like to do it :)
 
 portfolio:
   enable: true
