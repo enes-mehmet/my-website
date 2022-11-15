@@ -13,3 +13,4 @@ Hi! My name is Mehmet Enes, I am currently a Junior Computer Science and Enginee
 
 I am currently available for part time remote work, but will be looking for full time employment from summer 2023.
 
+You can have a look at my CV if you want!
